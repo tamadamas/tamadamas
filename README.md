@@ -1,6 +1,6 @@
 # Tomas Tamadamas
 
-I'm a Ruby on Rails developer with 10 years of experience, but I have also worked deeply with **Zig**, **Gleam**, and **Elixir** languages.
+I'm a Ruby on Rails developer with 10 years of experience
 
 ## 🔭 Current Projects
 - **[Flow Editor](https://github.com/neurocyte/flow)**: A project for creating a flow-based programming editor.
@@ -15,9 +15,6 @@ I'm a Ruby on Rails developer with 10 years of experience, but I have also worke
 - Open Source Contribution
 
 ## 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ## 📈 GitHub Stats
 ![Tamadamas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamadamas&show_icons=true&theme=radical)
